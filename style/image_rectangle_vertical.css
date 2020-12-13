@@ -12,6 +12,8 @@ article section ul li {
 
 ul li a img {
     border-radius: 5%;
+    width: 90%;
+    height: 90%;
 }
 
 ul li a p {
